@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: home-services-platform
+
+  profiles:
+    active: local
